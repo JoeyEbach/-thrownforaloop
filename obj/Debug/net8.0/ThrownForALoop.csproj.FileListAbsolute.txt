@@ -1,0 +1,14 @@
+/Users/joeyebach/workspace/csharp/ThrownForALoop/bin/Debug/net8.0/ThrownForALoop
+/Users/joeyebach/workspace/csharp/ThrownForALoop/bin/Debug/net8.0/ThrownForALoop.deps.json
+/Users/joeyebach/workspace/csharp/ThrownForALoop/bin/Debug/net8.0/ThrownForALoop.runtimeconfig.json
+/Users/joeyebach/workspace/csharp/ThrownForALoop/bin/Debug/net8.0/ThrownForALoop.dll
+/Users/joeyebach/workspace/csharp/ThrownForALoop/bin/Debug/net8.0/ThrownForALoop.pdb
+/Users/joeyebach/workspace/csharp/ThrownForALoop/obj/Debug/net8.0/ThrownForALoop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joeyebach/workspace/csharp/ThrownForALoop/obj/Debug/net8.0/ThrownForALoop.AssemblyInfoInputs.cache
+/Users/joeyebach/workspace/csharp/ThrownForALoop/obj/Debug/net8.0/ThrownForALoop.AssemblyInfo.cs
+/Users/joeyebach/workspace/csharp/ThrownForALoop/obj/Debug/net8.0/ThrownForALoop.csproj.CoreCompileInputs.cache
+/Users/joeyebach/workspace/csharp/ThrownForALoop/obj/Debug/net8.0/ThrownForALoop.dll
+/Users/joeyebach/workspace/csharp/ThrownForALoop/obj/Debug/net8.0/refint/ThrownForALoop.dll
+/Users/joeyebach/workspace/csharp/ThrownForALoop/obj/Debug/net8.0/ThrownForALoop.pdb
+/Users/joeyebach/workspace/csharp/ThrownForALoop/obj/Debug/net8.0/ThrownForALoop.genruntimeconfig.cache
+/Users/joeyebach/workspace/csharp/ThrownForALoop/obj/Debug/net8.0/ref/ThrownForALoop.dll
